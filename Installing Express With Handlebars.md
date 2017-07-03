@@ -71,7 +71,7 @@ $ npm start
 ```
 
 
-In browser type localhost:8000
+In browser type localhost:3000
 
 
 ![Image](https://content.screencast.com/users/paulhanna33/folders/Jing/media/c6179b10-e6a3-41a4-ba12-a74ba3f85e9f/00000013.png)
