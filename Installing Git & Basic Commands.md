@@ -34,7 +34,6 @@ $ cd <gitFolderName>
 Test git by creating file inside folder
 
 
-
 ```git
 $ touch test.js
 ```
