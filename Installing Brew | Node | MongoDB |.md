@@ -51,5 +51,3 @@ Create DB in Robomongo
 ![Image](https://api.monosnap.com/rpc/file/download?id=n2uo0qM0kgApfFPDK4CXYwv2uNgXGQ)
 Connect to DB
 ![Image](https://api.monosnap.com/rpc/file/download?id=ONj1aIbEFUfG8KFmINdMgiGf5lX6eh)
-
-
