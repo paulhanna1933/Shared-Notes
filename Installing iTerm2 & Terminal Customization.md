@@ -84,6 +84,3 @@ Copy and paste  installation link in terminal
 
 
 
-
-
-
