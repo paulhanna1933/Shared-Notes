@@ -91,6 +91,12 @@ Change Branch
 $ git checkout <branchname> 
 ```
 
+Create Branch & CD into it
+
+```git
+$ git checkout -b <branchname> 
+```
+
 See all branches
 
 ```git
