@@ -90,3 +90,9 @@ Change Branch
 ```git
 $ git checkout <branchname> 
 ```
+
+See all branches
+
+```git
+$ git branch -a
+```
