@@ -102,3 +102,9 @@ See all branches
 ```git
 $ git branch -a
 ```
+
+See all branches
+
+```git
+$ git pull origin <branchname>
+```
