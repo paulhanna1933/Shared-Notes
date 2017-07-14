@@ -10,6 +10,7 @@ A guide for installing web dev environments
 # 4)  [Installing Git & Basic Commands](https://github.com/paulhanna1933/Shared-Notes/blob/master/Installing%20Git%20%26%20Basic%20Commands.md)
 # 5)  [Installing NodeJS & Server](https://github.com/paulhanna1933/Shared-Notes/blob/master/Installing%20NodeJS%20%26%20Server.md)
 # 6)  [Installing iTerm2 & Terminal Customization](https://github.com/paulhanna1933/Shared-Notes/blob/master/Installing%20iTerm2%20%26%20Terminal%20Customization.md)
+# 7)  [Installing Angular Project](https://github.com/paulhanna1933/Shared-Notes/blob/master/Installing%20Angular%20Project.md)
 
 
 
