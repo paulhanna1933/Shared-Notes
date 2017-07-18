@@ -12,7 +12,9 @@ A guide for installing web dev environments
 # 6)  [Installing iTerm2 & Terminal Customization](https://github.com/paulhanna1933/Shared-Notes/blob/master/Installing%20iTerm2%20%26%20Terminal%20Customization.md)
 # 7)  [Installing Angular Project](https://github.com/paulhanna1933/Shared-Notes/blob/master/Installing%20Angular%20Project.md)
 
+# Cheatsheets: 
 
+# 1)  [Atom Emmet Synatx Cheatsheet](https://docs.emmet.io/cheat-sheet/)
 
 
 # Language Basics: 
